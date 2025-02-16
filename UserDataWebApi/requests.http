@@ -1,0 +1,52 @@
+
+//all users
+GET http://localhost:5012/api/Users
+Username: admin
+Password: password
+
+
+
+###
+
+//get users by ID
+GET http://localhost:5012/api/Users/4
+Username: admin
+Password: password
+
+###
+
+//Post new User
+POST http://localhost:5012/api/Users
+Content-Type: application/json
+Username: admin
+Password: password
+
+{
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+
+
+
+###
+
+//Update existing User
+PUT http://localhost:5012/api/Users/3
+Content-Type: application/json
+Username: admin
+Password: password
+
+{
+    "id": 3,
+    "name": "frank",
+    "email": "frank@example.com"
+}
+
+
+###
+
+//Delete User
+DELETE http://localhost:5012/api/Users/3
+Username: admin
+Password: password

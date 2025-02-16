@@ -1,0 +1,2099 @@
+2025-02-16 14:54:14.942 +01:00 [INF] Now listening on: http://localhost:5012
+2025-02-16 14:54:14.978 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 14:54:14.980 +01:00 [INF] Hosting environment: Development
+2025-02-16 14:54:14.981 +01:00 [INF] Content root path: D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi
+2025-02-16 14:55:11.986 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/ - null null
+2025-02-16 14:55:11.998 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5012
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: it-IT,it;q=0.8,en-US;q=0.5,en;q=0.3
+Upgrade-Insecure-Requests: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-User: [Redacted]
+Priority: [Redacted]
+2025-02-16 14:55:12.007 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 14:55:12.021 +01:00 [INF] HTTP GET / responded 401 in 14.5286 ms
+2025-02-16 14:55:12.035 +01:00 [INF] Duration: 36.6492ms
+2025-02-16 14:55:12.045 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/ - 401 null null 59.1876ms
+2025-02-16 14:55:12.085 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/favicon.ico - null null
+2025-02-16 14:55:12.090 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Connection: keep-alive
+Host: localhost:5012
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: it-IT,it;q=0.8,en-US;q=0.5,en;q=0.3
+Referer: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Priority: [Redacted]
+2025-02-16 14:55:12.095 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 14:55:12.097 +01:00 [INF] HTTP GET /favicon.ico responded 401 in 2.1794 ms
+2025-02-16 14:55:12.103 +01:00 [INF] Duration: 12.5716ms
+2025-02-16 14:55:12.107 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/favicon.ico - 401 null null 21.5804ms
+2025-02-16 15:12:56.881 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/favicon.ico - null null
+2025-02-16 15:12:56.884 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5012
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: it-IT,it;q=0.8,en-US;q=0.5,en;q=0.3
+Upgrade-Insecure-Requests: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-User: [Redacted]
+Priority: [Redacted]
+2025-02-16 15:12:56.886 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 15:12:56.887 +01:00 [INF] HTTP GET /favicon.ico responded 401 in 0.7085 ms
+2025-02-16 15:12:56.888 +01:00 [INF] Duration: 4.0811ms
+2025-02-16 15:12:56.890 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/favicon.ico - 401 null null 8.6728ms
+2025-02-16 15:15:56.502 +01:00 [INF] Application is shutting down...
+2025-02-16 15:15:59.343 +01:00 [INF] Now listening on: http://localhost:5012
+2025-02-16 15:15:59.375 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 15:15:59.376 +01:00 [INF] Hosting environment: Development
+2025-02-16 15:15:59.377 +01:00 [INF] Content root path: D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi
+2025-02-16 15:17:13.182 +01:00 [INF] Application is shutting down...
+2025-02-16 15:17:15.841 +01:00 [INF] Now listening on: http://localhost:5012
+2025-02-16 15:17:15.873 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 15:17:15.874 +01:00 [INF] Hosting environment: Development
+2025-02-16 15:17:15.875 +01:00 [INF] Content root path: D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi
+2025-02-16 15:17:24.452 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/ - null null
+2025-02-16 15:17:24.468 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5012
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: it-IT,it;q=0.8,en-US;q=0.5,en;q=0.3
+Upgrade-Insecure-Requests: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-User: [Redacted]
+Priority: [Redacted]
+2025-02-16 15:17:24.475 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 15:17:24.482 +01:00 [INF] HTTP GET / responded 401 in 7.1452 ms
+2025-02-16 15:17:24.498 +01:00 [INF] Duration: 30.2647ms
+2025-02-16 15:17:24.509 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/ - 401 null null 55.4353ms
+2025-02-16 15:17:29.015 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:17:29.021 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:17:29.030 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-02-16 15:17:29.065 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:17:29.102 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:17:29.119 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:17:29.144 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:17:29.151 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 43.1637ms
+2025-02-16 15:17:29.152 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:17:29.153 +01:00 [INF] HTTP GET /api/Users responded 200 in 129.1368 ms
+2025-02-16 15:17:29.157 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"}]
+2025-02-16 15:17:29.157 +01:00 [INF] Duration: 137.1682ms
+2025-02-16 15:17:29.158 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 143.6595ms
+2025-02-16 15:17:56.503 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users/1 - null null
+2025-02-16 15:17:56.507 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:17:56.510 +01:00 [INF] Executing endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:17:56.519 +01:00 [INF] Route matched with {action = "GetUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] GetUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:17:56.528 +01:00 [INF] Executing OkObjectResult, writing value of type 'User'.
+2025-02-16 15:17:56.530 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:17:56.532 +01:00 [INF] Executed action UsersController.GetUser (UserDataWebApi) in 8.8175ms
+2025-02-16 15:17:56.533 +01:00 [INF] Executed endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:17:56.534 +01:00 [INF] HTTP GET /api/Users/1 responded 200 in 24.9866 ms
+2025-02-16 15:17:56.536 +01:00 [INF] ResponseBody: {"id":1,"name":"John","email":"john@example.com"}
+2025-02-16 15:17:56.537 +01:00 [INF] Duration: 29.6685ms
+2025-02-16 15:17:56.538 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users/1 - 200 null application/json; charset=utf-8 34.9397ms
+2025-02-16 15:18:06.214 +01:00 [INF] Application is shutting down...
+2025-02-16 15:18:15.618 +01:00 [INF] Now listening on: http://localhost:5012
+2025-02-16 15:18:15.650 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 15:18:15.652 +01:00 [INF] Hosting environment: Development
+2025-02-16 15:18:15.652 +01:00 [INF] Content root path: D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi
+2025-02-16 15:18:26.880 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users/3 - null null
+2025-02-16 15:18:26.894 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users/3
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:18:26.901 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-02-16 15:18:26.914 +01:00 [INF] Executing endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:18:26.948 +01:00 [INF] Route matched with {action = "GetUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] GetUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:18:26.958 +01:00 [INF] Executing OkObjectResult, writing value of type 'User'.
+2025-02-16 15:18:26.968 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:18:26.975 +01:00 [INF] Executed action UsersController.GetUser (UserDataWebApi) in 22.2805ms
+2025-02-16 15:18:26.986 +01:00 [INF] Executed endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:18:26.989 +01:00 [INF] HTTP GET /api/Users/3 responded 200 in 90.7193 ms
+2025-02-16 15:18:26.993 +01:00 [INF] ResponseBody: {"id":3,"name":"Alice","email":"alice@example.com"}
+2025-02-16 15:18:26.996 +01:00 [INF] Duration: 102.3148ms
+2025-02-16 15:18:26.999 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users/3 - 200 null application/json; charset=utf-8 119.8115ms
+2025-02-16 15:18:33.274 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users/4 - null null
+2025-02-16 15:18:33.277 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users/4
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:18:33.279 +01:00 [INF] Executing endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:18:33.281 +01:00 [INF] Route matched with {action = "GetUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] GetUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:18:33.283 +01:00 [INF] Executing OkObjectResult, writing value of type 'User'.
+2025-02-16 15:18:33.285 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:18:33.287 +01:00 [INF] Executed action UsersController.GetUser (UserDataWebApi) in 4.1733ms
+2025-02-16 15:18:33.288 +01:00 [INF] Executed endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:18:33.289 +01:00 [INF] HTTP GET /api/Users/4 responded 200 in 10.3219 ms
+2025-02-16 15:18:33.290 +01:00 [INF] ResponseBody: {"id":4,"name":"Bob","email":"bob@example.com"}
+2025-02-16 15:18:33.291 +01:00 [INF] Duration: 14.0244ms
+2025-02-16 15:18:33.292 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users/4 - 200 null application/json; charset=utf-8 18.426ms
+2025-02-16 15:20:06.403 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 72
+2025-02-16 15:20:06.408 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 72
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:20:06.410 +01:00 [INF] Executing endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 15:20:06.412 +01:00 [INF] Route matched with {action = "PostUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] PostUser(User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:20:06.418 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Poli",
+    "email": "poli@example.com"
+}
+2025-02-16 15:20:06.432 +01:00 [INF] Executing CreatedAtActionResult, writing value of type 'User'.
+2025-02-16 15:20:06.446 +01:00 [INF] Response:
+StatusCode: 201
+Content-Type: application/json; charset=utf-8
+Location: http://localhost:5012/api/Users/5
+2025-02-16 15:20:06.449 +01:00 [INF] Executed action UsersController.PostUser (UserDataWebApi) in 34.769ms
+2025-02-16 15:20:06.450 +01:00 [INF] Executed endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 15:20:06.451 +01:00 [INF] HTTP POST /api/Users responded 201 in 41.2470 ms
+2025-02-16 15:20:06.452 +01:00 [INF] ResponseBody: {"id":5,"name":"Poli","email":"poli@example.com"}
+2025-02-16 15:20:06.453 +01:00 [INF] Duration: 45.5631ms
+2025-02-16 15:20:06.454 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 201 null application/json; charset=utf-8 50.6981ms
+2025-02-16 15:20:11.814 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:20:11.816 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:20:11.819 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:20:11.821 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:20:11.825 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:20:11.829 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:20:11.831 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 6.8121ms
+2025-02-16 15:20:11.832 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:20:11.833 +01:00 [INF] HTTP GET /api/Users responded 200 in 14.8151 ms
+2025-02-16 15:20:11.834 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Poli","email":"poli@example.com"}]
+2025-02-16 15:20:11.835 +01:00 [INF] Duration: 18.9194ms
+2025-02-16 15:20:11.836 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 22.2882ms
+2025-02-16 15:21:00.186 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:21:00.189 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:21:00.190 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:21:00.191 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:21:00.193 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:21:00.195 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:21:00.197 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.6893ms
+2025-02-16 15:21:00.198 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:21:00.199 +01:00 [INF] HTTP GET /api/Users responded 200 in 8.8522 ms
+2025-02-16 15:21:00.201 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Poli","email":"poli@example.com"}]
+2025-02-16 15:21:00.202 +01:00 [INF] Duration: 12.9572ms
+2025-02-16 15:21:00.203 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 17.1523ms
+2025-02-16 15:21:47.922 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/1 - application/json 74
+2025-02-16 15:21:47.925 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:21:47.927 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:21:47.929 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:21:47.932 +01:00 [INF] RequestBody: {
+    "id": 1,
+    "name": "frank",
+    "email": "frank@example.com"
+}
+2025-02-16 15:21:47.936 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:21:47.938 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 6.5315ms
+2025-02-16 15:21:47.939 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:21:47.940 +01:00 [INF] HTTP PUT /api/Users/1 responded 204 in 13.3754 ms
+2025-02-16 15:21:47.941 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:21:47.942 +01:00 [INF] Duration: 17.2286ms
+2025-02-16 15:21:47.943 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/1 - 204 null null 20.9111ms
+2025-02-16 15:21:52.795 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:21:52.798 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:21:52.799 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:21:52.800 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:21:52.802 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:21:52.804 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:21:52.805 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.6604ms
+2025-02-16 15:21:52.807 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:21:52.808 +01:00 [INF] HTTP GET /api/Users responded 200 in 8.9583 ms
+2025-02-16 15:21:52.810 +01:00 [INF] ResponseBody: [{"id":1,"name":"frank","email":"frank@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Poli","email":"poli@example.com"}]
+2025-02-16 15:21:52.810 +01:00 [INF] Duration: 13.01ms
+2025-02-16 15:21:52.811 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 16.5235ms
+2025-02-16 15:24:58.962 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/1 - application/json 76
+2025-02-16 15:24:58.966 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 76
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:24:58.968 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:24:58.969 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:24:58.970 +01:00 [INF] RequestBody: {
+    "id": 1,
+    "name": "frank5",
+    "email": "frank5@example.com"
+}
+2025-02-16 15:24:58.972 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:24:58.974 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 3.3881ms
+2025-02-16 15:24:58.975 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:24:58.976 +01:00 [INF] HTTP PUT /api/Users/1 responded 204 in 8.2771 ms
+2025-02-16 15:24:58.977 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:24:58.978 +01:00 [INF] Duration: 12.2476ms
+2025-02-16 15:24:58.979 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/1 - 204 null null 16.9899ms
+2025-02-16 15:25:06.714 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:25:06.716 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:25:06.718 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:25:06.719 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:25:06.722 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:25:06.724 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:25:06.725 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.6271ms
+2025-02-16 15:25:06.726 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:25:06.727 +01:00 [INF] HTTP GET /api/Users responded 200 in 9.4673 ms
+2025-02-16 15:25:06.730 +01:00 [INF] ResponseBody: [{"id":1,"name":"frank5","email":"frank5@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Poli","email":"poli@example.com"}]
+2025-02-16 15:25:06.731 +01:00 [INF] Duration: 14.7006ms
+2025-02-16 15:25:06.732 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 18.115ms
+2025-02-16 15:25:17.658 +01:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5012/api/Users/1 - null null
+2025-02-16 15:25:17.661 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: DELETE
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:25:17.662 +01:00 [INF] Executing endpoint 'UsersController.DeleteUser (UserDataWebApi)'
+2025-02-16 15:25:17.664 +01:00 [INF] Route matched with {action = "DeleteUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult DeleteUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:25:17.667 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:25:17.668 +01:00 [INF] Executed action UsersController.DeleteUser (UserDataWebApi) in 1.473ms
+2025-02-16 15:25:17.669 +01:00 [INF] Executed endpoint 'UsersController.DeleteUser (UserDataWebApi)'
+2025-02-16 15:25:17.670 +01:00 [INF] HTTP DELETE /api/Users/1 responded 204 in 7.5471 ms
+2025-02-16 15:25:17.671 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:25:17.672 +01:00 [INF] Duration: 11.0931ms
+2025-02-16 15:25:17.673 +01:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5012/api/Users/1 - 204 null null 15.1006ms
+2025-02-16 15:25:21.899 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:25:21.901 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:25:21.903 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:25:21.905 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:25:21.907 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:25:21.908 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:25:21.909 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.5873ms
+2025-02-16 15:25:21.910 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:25:21.911 +01:00 [INF] HTTP GET /api/Users responded 200 in 8.3760 ms
+2025-02-16 15:25:21.913 +01:00 [INF] ResponseBody: [{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Poli","email":"poli@example.com"}]
+2025-02-16 15:25:21.914 +01:00 [INF] Duration: 12.8286ms
+2025-02-16 15:25:21.915 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 16.1269ms
+2025-02-16 15:25:48.050 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:25:48.053 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+2025-02-16 15:25:48.056 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 15:25:48.057 +01:00 [INF] HTTP GET /api/Users responded 401 in 1.5779 ms
+2025-02-16 15:25:48.058 +01:00 [INF] Duration: 5.0211ms
+2025-02-16 15:25:48.059 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 401 null null 9.3438ms
+2025-02-16 15:25:55.921 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:25:55.924 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:25:55.926 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:25:55.927 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:25:55.929 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:25:55.930 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:25:55.931 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 1.979ms
+2025-02-16 15:25:55.932 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:25:55.933 +01:00 [INF] HTTP GET /api/Users responded 200 in 6.8287 ms
+2025-02-16 15:25:55.934 +01:00 [INF] ResponseBody: [{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Poli","email":"poli@example.com"}]
+2025-02-16 15:25:55.935 +01:00 [INF] Duration: 10.7147ms
+2025-02-16 15:25:55.936 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 14.5423ms
+2025-02-16 15:26:02.270 +01:00 [INF] Application is shutting down...
+2025-02-16 15:32:59.624 +01:00 [INF] Now listening on: http://localhost:5012
+2025-02-16 15:32:59.659 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 15:32:59.661 +01:00 [INF] Hosting environment: Development
+2025-02-16 15:32:59.662 +01:00 [INF] Content root path: D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi
+2025-02-16 15:35:30.106 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:35:30.119 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:35:30.126 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-02-16 15:35:30.145 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:35:30.164 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:35:30.170 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:35:30.183 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:35:30.190 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 21.6391ms
+2025-02-16 15:35:30.201 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:35:30.204 +01:00 [INF] HTTP GET /api/Users responded 200 in 80.7089 ms
+2025-02-16 15:35:30.208 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"}]
+2025-02-16 15:35:30.211 +01:00 [INF] Duration: 92.4155ms
+2025-02-16 15:35:30.213 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 107.8799ms
+2025-02-16 15:35:34.783 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users/4 - null null
+2025-02-16 15:35:34.786 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users/4
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:35:34.789 +01:00 [INF] Executing endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:35:34.797 +01:00 [INF] Route matched with {action = "GetUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] GetUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:35:34.803 +01:00 [INF] Executing OkObjectResult, writing value of type 'User'.
+2025-02-16 15:35:34.806 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:35:34.808 +01:00 [INF] Executed action UsersController.GetUser (UserDataWebApi) in 8.9423ms
+2025-02-16 15:35:34.809 +01:00 [INF] Executed endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:35:34.810 +01:00 [INF] HTTP GET /api/Users/4 responded 200 in 22.1351 ms
+2025-02-16 15:35:34.812 +01:00 [INF] ResponseBody: {"id":4,"name":"Bob","email":"bob@example.com"}
+2025-02-16 15:35:34.814 +01:00 [INF] Duration: 28.4255ms
+2025-02-16 15:35:34.815 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users/4 - 200 null application/json; charset=utf-8 32.4916ms
+2025-02-16 15:35:58.017 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 15:35:58.021 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:35:58.026 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 15:35:58.051 +01:00 [ERR] HTTP POST /api/Users responded 500 in 28.1310 ms
+System.ArgumentException: The value cannot be an empty string. (Parameter 'address')
+   at System.ArgumentException.ThrowNullOrEmptyException(String argument, String paramName)
+   at System.ArgumentException.ThrowIfNullOrEmpty(String argument, String paramName)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at Program.<<Main>$>g__IsValidEmail|0_4(String email) in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 132
+   at Program.<<Main>$>g__IsValidEmailInBody|0_5(String body) in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 145
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 85
+--- End of stack trace from previous location ---
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-02-16 15:35:58.074 +01:00 [INF] Response:
+StatusCode: 200
+2025-02-16 15:35:58.075 +01:00 [INF] Duration: 53.5138ms
+2025-02-16 15:35:58.076 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: The value cannot be an empty string. (Parameter 'address')
+   at System.ArgumentException.ThrowNullOrEmptyException(String argument, String paramName)
+   at System.ArgumentException.ThrowIfNullOrEmpty(String argument, String paramName)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at Program.<<Main>$>g__IsValidEmail|0_4(String email) in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 132
+   at Program.<<Main>$>g__IsValidEmailInBody|0_5(String body) in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 145
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 85
+--- End of stack trace from previous location ---
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-02-16 15:35:58.082 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 500 null text/plain; charset=utf-8 64.4452ms
+2025-02-16 15:36:24.900 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:36:24.903 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:36:24.906 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:36:24.907 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:36:24.909 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:36:24.911 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:36:24.912 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.2821ms
+2025-02-16 15:36:24.914 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:36:24.916 +01:00 [INF] HTTP GET /api/Users responded 200 in 10.9614 ms
+2025-02-16 15:36:24.918 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"}]
+2025-02-16 15:36:24.919 +01:00 [INF] Duration: 16.159ms
+2025-02-16 15:36:24.921 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 20.2319ms
+2025-02-16 15:36:39.560 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 15:36:39.563 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:36:39.565 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 15:36:39.566 +01:00 [ERR] HTTP POST /api/Users responded 500 in 1.4045 ms
+System.ArgumentException: The value cannot be an empty string. (Parameter 'address')
+   at System.ArgumentException.ThrowNullOrEmptyException(String argument, String paramName)
+   at System.ArgumentException.ThrowIfNullOrEmpty(String argument, String paramName)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at Program.<<Main>$>g__IsValidEmail|0_4(String email) in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 132
+   at Program.<<Main>$>g__IsValidEmailInBody|0_5(String body) in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 145
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 85
+--- End of stack trace from previous location ---
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-02-16 15:36:39.570 +01:00 [INF] Response:
+StatusCode: 200
+2025-02-16 15:36:39.571 +01:00 [INF] Duration: 7.7801ms
+2025-02-16 15:36:39.572 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: The value cannot be an empty string. (Parameter 'address')
+   at System.ArgumentException.ThrowNullOrEmptyException(String argument, String paramName)
+   at System.ArgumentException.ThrowIfNullOrEmpty(String argument, String paramName)
+   at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at Program.<<Main>$>g__IsValidEmail|0_4(String email) in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 132
+   at Program.<<Main>$>g__IsValidEmailInBody|0_5(String body) in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 145
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 85
+--- End of stack trace from previous location ---
+   at Program.<>c.<<<Main>$>b__0_1>d.MoveNext() in D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi\Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-02-16 15:36:39.577 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 500 null text/plain; charset=utf-8 17.0386ms
+2025-02-16 15:37:38.569 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users/4 - null null
+2025-02-16 15:37:38.572 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users/4
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:37:38.575 +01:00 [INF] Executing endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:37:38.578 +01:00 [INF] Route matched with {action = "GetUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] GetUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:37:38.580 +01:00 [INF] Executing OkObjectResult, writing value of type 'User'.
+2025-02-16 15:37:38.582 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:37:38.583 +01:00 [INF] Executed action UsersController.GetUser (UserDataWebApi) in 3.3504ms
+2025-02-16 15:37:38.584 +01:00 [INF] Executed endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:37:38.585 +01:00 [INF] HTTP GET /api/Users/4 responded 200 in 12.3284 ms
+2025-02-16 15:37:38.587 +01:00 [INF] ResponseBody: {"id":4,"name":"Bob","email":"bob@example.com"}
+2025-02-16 15:37:38.588 +01:00 [INF] Duration: 15.8484ms
+2025-02-16 15:37:38.588 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users/4 - 200 null application/json; charset=utf-8 19.6901ms
+2025-02-16 15:37:42.732 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 15:37:42.735 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:37:42.737 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 15:37:42.740 +01:00 [INF] Response:
+StatusCode: 400
+2025-02-16 15:37:42.742 +01:00 [INF] HTTP POST /api/Users responded 400 in 4.4896 ms
+2025-02-16 15:37:42.744 +01:00 [INF] Duration: 9.0985ms
+2025-02-16 15:37:42.745 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 400 null null 12.9864ms
+2025-02-16 15:39:02.418 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/1 - application/json 76
+2025-02-16 15:39:02.420 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 76
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:39:02.423 +01:00 [INF] RequestBody: {
+    "id": 1,
+    "name": "frank7",
+    "email": "frank7@example.com"
+}
+2025-02-16 15:39:02.424 +01:00 [INF] Response:
+StatusCode: 400
+2025-02-16 15:39:02.425 +01:00 [INF] HTTP PUT /api/Users/1 responded 400 in 2.0660 ms
+2025-02-16 15:39:02.426 +01:00 [INF] Duration: 5.849ms
+2025-02-16 15:39:02.427 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/1 - 400 null null 9.6007ms
+2025-02-16 15:39:12.587 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 15:39:12.590 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:39:12.591 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 15:39:12.593 +01:00 [INF] Response:
+StatusCode: 400
+2025-02-16 15:39:12.594 +01:00 [INF] HTTP POST /api/Users responded 400 in 2.3330 ms
+2025-02-16 15:39:12.595 +01:00 [INF] Duration: 5.5233ms
+2025-02-16 15:39:12.602 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 400 null null 14.6493ms
+2025-02-16 15:40:07.777 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:40:07.780 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:40:07.783 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:40:07.785 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:40:07.788 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:40:07.790 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:40:07.791 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.0198ms
+2025-02-16 15:40:07.792 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:40:07.793 +01:00 [INF] HTTP GET /api/Users responded 200 in 11.6242 ms
+2025-02-16 15:40:07.794 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"}]
+2025-02-16 15:40:07.795 +01:00 [INF] Duration: 15.3458ms
+2025-02-16 15:40:07.796 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 18.7874ms
+2025-02-16 15:40:16.383 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users/4 - null null
+2025-02-16 15:40:16.386 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users/4
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:40:16.388 +01:00 [INF] Executing endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:40:16.390 +01:00 [INF] Route matched with {action = "GetUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] GetUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:40:16.392 +01:00 [INF] Executing OkObjectResult, writing value of type 'User'.
+2025-02-16 15:40:16.394 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:40:16.395 +01:00 [INF] Executed action UsersController.GetUser (UserDataWebApi) in 3.1004ms
+2025-02-16 15:40:16.397 +01:00 [INF] Executed endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:40:16.398 +01:00 [INF] HTTP GET /api/Users/4 responded 200 in 9.9863 ms
+2025-02-16 15:40:16.399 +01:00 [INF] ResponseBody: {"id":4,"name":"Bob","email":"bob@example.com"}
+2025-02-16 15:40:16.399 +01:00 [INF] Duration: 13.1319ms
+2025-02-16 15:40:16.400 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users/4 - 200 null application/json; charset=utf-8 16.8318ms
+2025-02-16 15:40:26.042 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 15:40:26.044 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:40:26.046 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 15:40:26.048 +01:00 [INF] Invalid email format: 
+2025-02-16 15:40:26.051 +01:00 [INF] Response:
+StatusCode: 400
+2025-02-16 15:40:26.059 +01:00 [INF] HTTP POST /api/Users responded 400 in 12.9179 ms
+2025-02-16 15:40:26.061 +01:00 [INF] Duration: 17.3735ms
+2025-02-16 15:40:26.063 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 400 null null 21.1507ms
+2025-02-16 15:43:06.089 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:43:06.091 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:43:06.095 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:43:06.098 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:43:06.101 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:43:06.103 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:43:06.104 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.855ms
+2025-02-16 15:43:06.105 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:43:06.106 +01:00 [INF] HTTP GET /api/Users responded 200 in 12.6778 ms
+2025-02-16 15:43:06.108 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"}]
+2025-02-16 15:43:06.109 +01:00 [INF] Duration: 17.2444ms
+2025-02-16 15:43:06.109 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 20.8666ms
+2025-02-16 15:43:15.105 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users/4 - null null
+2025-02-16 15:43:15.108 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users/4
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:43:15.110 +01:00 [INF] Executing endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:43:15.112 +01:00 [INF] Route matched with {action = "GetUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] GetUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:43:15.115 +01:00 [INF] Executing OkObjectResult, writing value of type 'User'.
+2025-02-16 15:43:15.116 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:43:15.117 +01:00 [INF] Executed action UsersController.GetUser (UserDataWebApi) in 2.3067ms
+2025-02-16 15:43:15.118 +01:00 [INF] Executed endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 15:43:15.119 +01:00 [INF] HTTP GET /api/Users/4 responded 200 in 9.5367 ms
+2025-02-16 15:43:15.120 +01:00 [INF] ResponseBody: {"id":4,"name":"Bob","email":"bob@example.com"}
+2025-02-16 15:43:15.121 +01:00 [INF] Duration: 13.1791ms
+2025-02-16 15:43:15.122 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users/4 - 200 null application/json; charset=utf-8 16.6636ms
+2025-02-16 15:43:18.825 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 15:43:18.827 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:43:18.829 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 15:43:18.831 +01:00 [INF] Executing endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 15:43:18.835 +01:00 [INF] Route matched with {action = "PostUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] PostUser(User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:43:18.848 +01:00 [INF] Executing CreatedAtActionResult, writing value of type 'User'.
+2025-02-16 15:43:18.862 +01:00 [INF] Response:
+StatusCode: 201
+Content-Type: application/json; charset=utf-8
+Location: http://localhost:5012/api/Users/5
+2025-02-16 15:43:18.864 +01:00 [INF] Executed action UsersController.PostUser (UserDataWebApi) in 27.2421ms
+2025-02-16 15:43:18.865 +01:00 [INF] Executed endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 15:43:18.866 +01:00 [INF] HTTP POST /api/Users responded 201 in 36.9227 ms
+2025-02-16 15:43:18.867 +01:00 [INF] ResponseBody: {"id":5,"name":"Jonny","email":"jonny@example.com"}
+2025-02-16 15:43:18.868 +01:00 [INF] Duration: 40.6078ms
+2025-02-16 15:43:18.869 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 201 null application/json; charset=utf-8 43.6026ms
+2025-02-16 15:43:24.840 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:43:24.842 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:43:24.844 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:43:24.845 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:43:24.847 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:43:24.850 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:43:24.852 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 4.4021ms
+2025-02-16 15:43:24.854 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:43:24.855 +01:00 [INF] HTTP GET /api/Users responded 200 in 10.7919 ms
+2025-02-16 15:43:24.856 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:43:24.857 +01:00 [INF] Duration: 14.6988ms
+2025-02-16 15:43:24.858 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 17.9644ms
+2025-02-16 15:43:35.548 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/1 - application/json 76
+2025-02-16 15:43:35.551 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 76
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:43:35.553 +01:00 [INF] RequestBody: {
+    "id": 1,
+    "name": "frank7",
+    "email": "frank7@example.com"
+}
+2025-02-16 15:43:35.555 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:43:35.558 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:43:35.562 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:43:35.564 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 4.2466ms
+2025-02-16 15:43:35.565 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:43:35.566 +01:00 [INF] HTTP PUT /api/Users/1 responded 204 in 13.1557 ms
+2025-02-16 15:43:35.567 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:43:35.569 +01:00 [INF] Duration: 18.0642ms
+2025-02-16 15:43:35.570 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/1 - 204 null null 21.6397ms
+2025-02-16 15:43:39.576 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:43:39.578 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:43:39.580 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:43:39.582 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:43:39.584 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:43:39.586 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:43:39.587 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.4419ms
+2025-02-16 15:43:39.589 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:43:39.590 +01:00 [INF] HTTP GET /api/Users responded 200 in 9.6030 ms
+2025-02-16 15:43:39.591 +01:00 [INF] ResponseBody: [{"id":1,"name":"frank7","email":"frank7@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:43:39.592 +01:00 [INF] Duration: 13.4819ms
+2025-02-16 15:43:39.593 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 16.8634ms
+2025-02-16 15:43:46.848 +01:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5012/api/Users/1 - null null
+2025-02-16 15:43:46.850 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: DELETE
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:43:46.852 +01:00 [INF] Executing endpoint 'UsersController.DeleteUser (UserDataWebApi)'
+2025-02-16 15:43:46.854 +01:00 [INF] Route matched with {action = "DeleteUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult DeleteUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:43:46.858 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:43:46.860 +01:00 [INF] Executed action UsersController.DeleteUser (UserDataWebApi) in 2.236ms
+2025-02-16 15:43:46.861 +01:00 [INF] Executed endpoint 'UsersController.DeleteUser (UserDataWebApi)'
+2025-02-16 15:43:46.862 +01:00 [INF] HTTP DELETE /api/Users/1 responded 204 in 9.8728 ms
+2025-02-16 15:43:46.864 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:43:46.865 +01:00 [INF] Duration: 14.9114ms
+2025-02-16 15:43:46.866 +01:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5012/api/Users/1 - 204 null null 18.3882ms
+2025-02-16 15:43:50.608 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:43:50.610 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:43:50.611 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:43:50.612 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:43:50.621 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:43:50.623 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:43:50.625 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.9082ms
+2025-02-16 15:43:50.626 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:43:50.628 +01:00 [INF] HTTP GET /api/Users responded 200 in 16.3257 ms
+2025-02-16 15:43:50.629 +01:00 [INF] ResponseBody: [{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:43:50.630 +01:00 [INF] Duration: 20.6134ms
+2025-02-16 15:43:50.632 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 24.0732ms
+2025-02-16 15:44:12.344 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/1 - application/json 73
+2025-02-16 15:44:12.348 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 73
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:44:12.350 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank",
+    "email": "frankexample.com"
+}
+2025-02-16 15:44:12.352 +01:00 [INF] Invalid email format: frankexample.com
+2025-02-16 15:44:12.353 +01:00 [INF] Response:
+StatusCode: 400
+2025-02-16 15:44:12.354 +01:00 [INF] HTTP PUT /api/Users/1 responded 400 in 4.2687 ms
+2025-02-16 15:44:12.355 +01:00 [INF] Duration: 7.3095ms
+2025-02-16 15:44:12.356 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/1 - 400 null null 11.61ms
+2025-02-16 15:44:19.656 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/1 - application/json 74
+2025-02-16 15:44:19.660 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/1
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:44:19.661 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank",
+    "email": "frank@example.com"
+}
+2025-02-16 15:44:19.663 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:44:19.664 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:44:19.667 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-02-16 15:44:19.678 +01:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/problem+json; charset=utf-8
+2025-02-16 15:44:19.679 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 13.4295ms
+2025-02-16 15:44:19.681 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:44:19.682 +01:00 [INF] HTTP PUT /api/Users/1 responded 400 in 20.3223 ms
+2025-02-16 15:44:19.683 +01:00 [INF] ResponseBody: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"Bad Request","status":400,"traceId":"00-95754e5d3e194b0e202f4156a603f132-2912cc87be4c28ad-00"}
+2025-02-16 15:44:19.684 +01:00 [INF] Duration: 24.0193ms
+2025-02-16 15:44:19.685 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/1 - 400 null application/problem+json; charset=utf-8 28.27ms
+2025-02-16 15:44:35.191 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/2 - application/json 74
+2025-02-16 15:44:35.194 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/2
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:44:35.196 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank",
+    "email": "frank@example.com"
+}
+2025-02-16 15:44:35.198 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:44:35.199 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:44:35.200 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:44:35.201 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 0.8809ms
+2025-02-16 15:44:35.202 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:44:35.203 +01:00 [INF] HTTP PUT /api/Users/2 responded 204 in 6.8568 ms
+2025-02-16 15:44:35.204 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:44:35.205 +01:00 [INF] Duration: 10.7636ms
+2025-02-16 15:44:35.206 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/2 - 204 null null 14.3756ms
+2025-02-16 15:44:39.648 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:44:39.651 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:44:39.652 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:44:39.654 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:44:39.657 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:44:39.658 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:44:39.660 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.1378ms
+2025-02-16 15:44:39.661 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:44:39.662 +01:00 [INF] HTTP GET /api/Users responded 200 in 9.2939 ms
+2025-02-16 15:44:39.663 +01:00 [INF] ResponseBody: [{"id":2,"name":"frank","email":"frank@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:44:39.664 +01:00 [INF] Duration: 12.9541ms
+2025-02-16 15:44:39.664 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 16.4317ms
+2025-02-16 15:44:59.848 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/2 - application/json 72
+2025-02-16 15:44:59.850 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/2
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 72
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:44:59.852 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank1",
+    "email": "frank1@example"
+}
+2025-02-16 15:44:59.853 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:44:59.854 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:44:59.856 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:44:59.857 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 1.2218ms
+2025-02-16 15:44:59.858 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:44:59.859 +01:00 [INF] HTTP PUT /api/Users/2 responded 204 in 7.2183 ms
+2025-02-16 15:44:59.860 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:44:59.861 +01:00 [INF] Duration: 11.0195ms
+2025-02-16 15:44:59.862 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/2 - 204 null null 14.3994ms
+2025-02-16 15:45:02.920 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:45:02.922 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:45:02.924 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:45:02.925 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:45:02.927 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:45:02.929 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:45:02.930 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.6009ms
+2025-02-16 15:45:02.931 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:45:02.931 +01:00 [INF] HTTP GET /api/Users responded 200 in 7.3998 ms
+2025-02-16 15:45:02.935 +01:00 [INF] ResponseBody: [{"id":2,"name":"frank1","email":"frank1@example"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:45:02.937 +01:00 [INF] Duration: 14.3242ms
+2025-02-16 15:45:02.938 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 17.5931ms
+2025-02-16 15:45:27.424 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/2 - application/json 76
+2025-02-16 15:45:27.428 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/2
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 76
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:45:27.431 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank1",
+    "email": "frank1@example.com"
+}
+2025-02-16 15:45:27.433 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:45:27.434 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:45:27.436 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:45:27.437 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 0.9462ms
+2025-02-16 15:45:27.438 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:45:27.439 +01:00 [INF] HTTP PUT /api/Users/2 responded 204 in 7.8594 ms
+2025-02-16 15:45:27.440 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:45:27.441 +01:00 [INF] Duration: 12.6713ms
+2025-02-16 15:45:27.442 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/2 - 204 null null 18.1145ms
+2025-02-16 15:45:30.170 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:45:30.173 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:45:30.176 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:45:30.178 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:45:30.180 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:45:30.181 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:45:30.182 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.0979ms
+2025-02-16 15:45:30.183 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:45:30.183 +01:00 [INF] HTTP GET /api/Users responded 200 in 7.5432 ms
+2025-02-16 15:45:30.185 +01:00 [INF] ResponseBody: [{"id":2,"name":"frank1","email":"frank1@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:45:30.185 +01:00 [INF] Duration: 12.0746ms
+2025-02-16 15:45:30.186 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 16.6244ms
+2025-02-16 15:45:51.584 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/2 - application/json 72
+2025-02-16 15:45:51.586 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/2
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 72
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:45:51.588 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank2",
+    "email": "frank2@example"
+}
+2025-02-16 15:45:51.589 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:45:51.590 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:45:51.591 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:45:51.592 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 1.542ms
+2025-02-16 15:45:51.593 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:45:51.594 +01:00 [INF] HTTP PUT /api/Users/2 responded 204 in 6.5031 ms
+2025-02-16 15:45:51.595 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:45:51.596 +01:00 [INF] Duration: 10.0266ms
+2025-02-16 15:45:51.597 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/2 - 204 null null 13.236ms
+2025-02-16 15:45:54.105 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:45:54.107 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:45:54.108 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:45:54.109 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:45:54.111 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:45:54.112 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:45:54.113 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.2122ms
+2025-02-16 15:45:54.114 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:45:54.115 +01:00 [INF] HTTP GET /api/Users responded 200 in 7.0795 ms
+2025-02-16 15:45:54.117 +01:00 [INF] ResponseBody: [{"id":2,"name":"frank2","email":"frank2@example"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:45:54.118 +01:00 [INF] Duration: 11.1923ms
+2025-02-16 15:45:54.120 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 14.9072ms
+2025-02-16 15:48:37.624 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/2 - application/json 72
+2025-02-16 15:48:37.627 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/2
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 72
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:48:37.631 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank2",
+    "email": "frank2@example"
+}
+2025-02-16 15:48:37.636 +01:00 [INF] Invalid email format: frank2@example
+2025-02-16 15:48:37.637 +01:00 [INF] Response:
+StatusCode: 400
+2025-02-16 15:48:37.638 +01:00 [INF] HTTP PUT /api/Users/2 responded 400 in 8.6326 ms
+2025-02-16 15:48:37.640 +01:00 [INF] Duration: 12.5813ms
+2025-02-16 15:48:37.641 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/2 - 400 null null 16.433ms
+2025-02-16 15:48:44.015 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/2 - application/json 76
+2025-02-16 15:48:44.017 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/2
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 76
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:48:44.019 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank2",
+    "email": "frank2@example.com"
+}
+2025-02-16 15:48:44.020 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:48:44.022 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:48:44.024 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:48:44.025 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 1.7657ms
+2025-02-16 15:48:44.026 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:48:44.026 +01:00 [INF] HTTP PUT /api/Users/2 responded 204 in 7.6721 ms
+2025-02-16 15:48:44.028 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:48:44.028 +01:00 [INF] Duration: 11.1506ms
+2025-02-16 15:48:44.029 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/2 - 204 null null 14.3168ms
+2025-02-16 15:48:47.105 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:48:47.108 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:48:47.111 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:48:47.114 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:48:47.115 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:48:47.117 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:48:47.118 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.3319ms
+2025-02-16 15:48:47.119 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:48:47.120 +01:00 [INF] HTTP GET /api/Users responded 200 in 10.1384 ms
+2025-02-16 15:48:47.122 +01:00 [INF] ResponseBody: [{"id":2,"name":"frank2","email":"frank2@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:48:47.122 +01:00 [INF] Duration: 14.5027ms
+2025-02-16 15:48:47.123 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 18.5486ms
+2025-02-16 15:49:04.104 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/2 - application/json 75
+2025-02-16 15:49:04.107 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/2
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 75
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:49:04.108 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank",
+    "email": "frank3@example.com"
+}
+2025-02-16 15:49:04.110 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:49:04.111 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 15:49:04.112 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:49:04.113 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 0.9987ms
+2025-02-16 15:49:04.114 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 15:49:04.116 +01:00 [INF] HTTP PUT /api/Users/2 responded 204 in 8.1030 ms
+2025-02-16 15:49:04.118 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:49:04.119 +01:00 [INF] Duration: 12.6768ms
+2025-02-16 15:49:04.120 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/2 - 204 null null 16.1407ms
+2025-02-16 15:49:06.592 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:49:06.595 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:49:06.597 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:49:06.598 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:49:06.600 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:49:06.601 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:49:06.602 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.2422ms
+2025-02-16 15:49:06.603 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:49:06.604 +01:00 [INF] HTTP GET /api/Users responded 200 in 7.3503 ms
+2025-02-16 15:49:06.605 +01:00 [INF] ResponseBody: [{"id":2,"name":"frank","email":"frank3@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:49:06.606 +01:00 [INF] Duration: 10.7437ms
+2025-02-16 15:49:06.607 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 14.3027ms
+2025-02-16 15:49:24.791 +01:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5012/api/Users/3 - null null
+2025-02-16 15:49:24.793 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: DELETE
+Scheme: http
+PathBase: 
+Path: /api/Users/3
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:49:24.795 +01:00 [INF] Executing endpoint 'UsersController.DeleteUser (UserDataWebApi)'
+2025-02-16 15:49:24.797 +01:00 [INF] Route matched with {action = "DeleteUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult DeleteUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 15:49:24.800 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 15:49:24.801 +01:00 [INF] Executed action UsersController.DeleteUser (UserDataWebApi) in 0.7958ms
+2025-02-16 15:49:24.801 +01:00 [INF] Executed endpoint 'UsersController.DeleteUser (UserDataWebApi)'
+2025-02-16 15:49:24.802 +01:00 [INF] HTTP DELETE /api/Users/3 responded 204 in 6.8501 ms
+2025-02-16 15:49:24.804 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 15:49:24.804 +01:00 [INF] Duration: 11.0314ms
+2025-02-16 15:49:24.805 +01:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5012/api/Users/3 - 204 null null 14.2145ms
+2025-02-16 15:49:28.358 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 15:49:28.361 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 15:49:28.363 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:49:28.364 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 15:49:28.365 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 15:49:28.366 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 15:49:28.367 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.1057ms
+2025-02-16 15:49:28.368 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 15:49:28.369 +01:00 [INF] HTTP GET /api/Users responded 200 in 6.5502 ms
+2025-02-16 15:49:28.370 +01:00 [INF] ResponseBody: [{"id":2,"name":"frank","email":"frank3@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 15:49:28.371 +01:00 [INF] Duration: 10.077ms
+2025-02-16 15:49:28.372 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 13.9661ms
+2025-02-16 15:49:43.414 +01:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5012/api/Users/3 - null null
+2025-02-16 15:49:43.417 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: DELETE
+Scheme: http
+PathBase: 
+Path: /api/Users/3
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+2025-02-16 15:49:43.418 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 15:49:43.419 +01:00 [INF] HTTP DELETE /api/Users/3 responded 401 in 0.7048 ms
+2025-02-16 15:49:43.421 +01:00 [INF] Duration: 3.7357ms
+2025-02-16 15:49:43.421 +01:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5012/api/Users/3 - 401 null null 6.9641ms
+2025-02-16 15:49:48.118 +01:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5012/api/Users/5 - null null
+2025-02-16 15:49:48.121 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: DELETE
+Scheme: http
+PathBase: 
+Path: /api/Users/5
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+2025-02-16 15:49:48.122 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 15:49:48.123 +01:00 [INF] HTTP DELETE /api/Users/5 responded 401 in 0.8962 ms
+2025-02-16 15:49:48.124 +01:00 [INF] Duration: 3.5855ms
+2025-02-16 15:49:48.125 +01:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5012/api/Users/5 - 401 null null 6.7767ms
+2025-02-16 15:50:04.708 +01:00 [INF] Application is shutting down...
+2025-02-16 16:02:47.372 +01:00 [INF] Now listening on: http://localhost:5012
+2025-02-16 16:02:47.405 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 16:02:47.406 +01:00 [INF] Hosting environment: Development
+2025-02-16 16:02:47.407 +01:00 [INF] Content root path: D:\Progetti_Per_Certificazioni\Corso FullStack Microsoft\Progetto5\UserDataWebApi
+2025-02-16 16:02:57.788 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/ - null null
+2025-02-16 16:02:57.804 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5012
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: it-IT,it;q=0.8,en-US;q=0.5,en;q=0.3
+Upgrade-Insecure-Requests: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-User: [Redacted]
+Priority: [Redacted]
+2025-02-16 16:02:57.811 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 16:02:57.822 +01:00 [INF] HTTP GET / responded 401 in 11.8118 ms
+2025-02-16 16:02:57.838 +01:00 [INF] Duration: 31.5936ms
+2025-02-16 16:02:57.847 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/ - 401 null null 58.5989ms
+2025-02-16 16:02:57.882 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/favicon.ico - null null
+2025-02-16 16:02:57.887 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Connection: keep-alive
+Host: localhost:5012
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: it-IT,it;q=0.8,en-US;q=0.5,en;q=0.3
+Referer: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Priority: [Redacted]
+2025-02-16 16:02:57.897 +01:00 [INF] Response:
+StatusCode: 401
+2025-02-16 16:02:57.899 +01:00 [INF] HTTP GET /favicon.ico responded 401 in 2.1015 ms
+2025-02-16 16:02:57.902 +01:00 [INF] Duration: 15.0516ms
+2025-02-16 16:02:57.907 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/favicon.ico - 401 null null 24.5441ms
+2025-02-16 16:03:05.807 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 16:03:05.811 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:03:05.815 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-02-16 16:03:05.827 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:03:05.843 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 16:03:05.849 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 16:03:05.862 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:03:05.868 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 19.499ms
+2025-02-16 16:03:05.869 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:03:05.870 +01:00 [INF] HTTP GET /api/Users responded 200 in 58.0146 ms
+2025-02-16 16:03:05.873 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"Alice","email":"alice@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"}]
+2025-02-16 16:03:05.873 +01:00 [INF] Duration: 62.5232ms
+2025-02-16 16:03:05.875 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 67.562ms
+2025-02-16 16:03:14.070 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users/4 - null null
+2025-02-16 16:03:14.073 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users/4
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:03:14.075 +01:00 [INF] Executing endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 16:03:14.080 +01:00 [INF] Route matched with {action = "GetUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] GetUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 16:03:14.086 +01:00 [INF] Executing OkObjectResult, writing value of type 'User'.
+2025-02-16 16:03:14.089 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:03:14.090 +01:00 [INF] Executed action UsersController.GetUser (UserDataWebApi) in 8.2137ms
+2025-02-16 16:03:14.091 +01:00 [INF] Executed endpoint 'UsersController.GetUser (UserDataWebApi)'
+2025-02-16 16:03:14.092 +01:00 [INF] HTTP GET /api/Users/4 responded 200 in 18.1596 ms
+2025-02-16 16:03:14.094 +01:00 [INF] ResponseBody: {"id":4,"name":"Bob","email":"bob@example.com"}
+2025-02-16 16:03:14.095 +01:00 [INF] Duration: 21.8064ms
+2025-02-16 16:03:14.095 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users/4 - 200 null application/json; charset=utf-8 25.1911ms
+2025-02-16 16:03:32.343 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/7 - application/json 74
+2025-02-16 16:03:32.346 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/7
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:03:32.350 +01:00 [INF] RequestBody: {
+    "id": 2,
+    "name": "frank",
+    "email": "frank@example.com"
+}
+2025-02-16 16:03:32.355 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 16:03:32.358 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 16:03:32.372 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-02-16 16:03:32.385 +01:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/problem+json; charset=utf-8
+2025-02-16 16:03:32.387 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 27.354ms
+2025-02-16 16:03:32.388 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 16:03:32.389 +01:00 [INF] HTTP PUT /api/Users/7 responded 400 in 41.2829 ms
+2025-02-16 16:03:32.391 +01:00 [INF] ResponseBody: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"Bad Request","status":400,"traceId":"00-11a9526d634a2361edc97a4a3ab37292-f0694ae296882580-00"}
+2025-02-16 16:03:32.391 +01:00 [INF] Duration: 45.223ms
+2025-02-16 16:03:32.392 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/7 - 400 null application/problem+json; charset=utf-8 49.4822ms
+2025-02-16 16:03:43.105 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/7 - application/json 74
+2025-02-16 16:03:43.107 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/7
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:03:43.109 +01:00 [INF] RequestBody: {
+    "id": 7,
+    "name": "frank",
+    "email": "frank@example.com"
+}
+2025-02-16 16:03:43.110 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 16:03:43.111 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 16:03:43.113 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-02-16 16:03:43.114 +01:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/problem+json; charset=utf-8
+2025-02-16 16:03:43.115 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 2.6595ms
+2025-02-16 16:03:43.116 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 16:03:43.117 +01:00 [INF] HTTP PUT /api/Users/7 responded 400 in 8.3320 ms
+2025-02-16 16:03:43.119 +01:00 [INF] ResponseBody: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"Bad Request","status":400,"traceId":"00-60c0b1318039d19a5f9c45494ccee357-530fd1aeba2afc62-00"}
+2025-02-16 16:03:43.120 +01:00 [INF] Duration: 13.0451ms
+2025-02-16 16:03:43.122 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/7 - 400 null application/problem+json; charset=utf-8 16.8689ms
+2025-02-16 16:04:48.079 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/3 - application/json 74
+2025-02-16 16:04:48.083 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/3
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:04:48.085 +01:00 [INF] RequestBody: {
+    "id": 3,
+    "name": "frank",
+    "email": "frank@example.com"
+}
+2025-02-16 16:04:48.087 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 16:04:48.089 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 16:04:48.093 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 16:04:48.095 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 3.9414ms
+2025-02-16 16:04:48.096 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 16:04:48.097 +01:00 [INF] HTTP PUT /api/Users/3 responded 204 in 12.5476 ms
+2025-02-16 16:04:48.099 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 16:04:48.100 +01:00 [INF] Duration: 17.2598ms
+2025-02-16 16:04:48.101 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/3 - 204 null null 21.6313ms
+2025-02-16 16:04:50.359 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 16:04:50.362 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:04:50.363 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:04:50.365 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 16:04:50.367 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 16:04:50.369 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:04:50.370 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.6772ms
+2025-02-16 16:04:50.371 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:04:50.372 +01:00 [INF] HTTP GET /api/Users responded 200 in 8.3350 ms
+2025-02-16 16:04:50.373 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"frank","email":"frank@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"}]
+2025-02-16 16:04:50.374 +01:00 [INF] Duration: 12.0487ms
+2025-02-16 16:04:50.375 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 15.6177ms
+2025-02-16 16:05:02.178 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 16:05:02.181 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:05:02.182 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 16:05:02.184 +01:00 [INF] Executing endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 16:05:02.187 +01:00 [INF] Route matched with {action = "PostUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] PostUser(User) on controller UsersController (UserDataWebApi).
+2025-02-16 16:05:02.190 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.SerializableError'.
+2025-02-16 16:05:02.192 +01:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:05:02.193 +01:00 [INF] Executed action UsersController.PostUser (UserDataWebApi) in 4.2653ms
+2025-02-16 16:05:02.195 +01:00 [INF] Executed endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 16:05:02.196 +01:00 [INF] HTTP POST /api/Users responded 400 in 13.8477 ms
+2025-02-16 16:05:02.197 +01:00 [INF] ResponseBody: {}
+2025-02-16 16:05:02.198 +01:00 [INF] Duration: 17.3756ms
+2025-02-16 16:05:02.199 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 400 null application/json; charset=utf-8 20.8217ms
+2025-02-16 16:05:04.911 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 16:05:04.913 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:05:04.915 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:05:04.916 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 16:05:04.918 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 16:05:04.920 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:05:04.921 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.6251ms
+2025-02-16 16:05:04.923 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:05:04.924 +01:00 [INF] HTTP GET /api/Users responded 200 in 9.1735 ms
+2025-02-16 16:05:04.925 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"frank","email":"frank@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"}]
+2025-02-16 16:05:04.926 +01:00 [INF] Duration: 12.5055ms
+2025-02-16 16:05:04.926 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 15.455ms
+2025-02-16 16:05:14.815 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 16:05:14.818 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:05:14.820 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 16:05:14.822 +01:00 [INF] Executing endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 16:05:14.823 +01:00 [INF] Route matched with {action = "PostUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] PostUser(User) on controller UsersController (UserDataWebApi).
+2025-02-16 16:05:14.825 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.SerializableError'.
+2025-02-16 16:05:14.827 +01:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:05:14.828 +01:00 [INF] Executed action UsersController.PostUser (UserDataWebApi) in 3.1006ms
+2025-02-16 16:05:14.829 +01:00 [INF] Executed endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 16:05:14.831 +01:00 [INF] HTTP POST /api/Users responded 400 in 10.5694 ms
+2025-02-16 16:05:14.832 +01:00 [INF] ResponseBody: {}
+2025-02-16 16:05:14.833 +01:00 [INF] Duration: 14.923ms
+2025-02-16 16:05:14.834 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 400 null application/json; charset=utf-8 18.3126ms
+2025-02-16 16:05:52.839 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 16:05:52.842 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:05:52.843 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 16:05:52.844 +01:00 [INF] Executing endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 16:05:52.846 +01:00 [INF] Route matched with {action = "PostUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] PostUser(User) on controller UsersController (UserDataWebApi).
+2025-02-16 16:05:52.851 +01:00 [INF] Executing CreatedAtActionResult, writing value of type 'User'.
+2025-02-16 16:05:52.864 +01:00 [INF] Response:
+StatusCode: 201
+Content-Type: application/json; charset=utf-8
+Location: http://localhost:5012/api/Users/5
+2025-02-16 16:05:52.865 +01:00 [INF] Executed action UsersController.PostUser (UserDataWebApi) in 17.1105ms
+2025-02-16 16:05:52.866 +01:00 [INF] Executed endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 16:05:52.867 +01:00 [INF] HTTP POST /api/Users responded 201 in 24.0637 ms
+2025-02-16 16:05:52.868 +01:00 [INF] ResponseBody: {"id":5,"name":"Jonny","email":"jonny@example.com"}
+2025-02-16 16:05:52.869 +01:00 [INF] Duration: 27.3521ms
+2025-02-16 16:05:52.870 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 201 null application/json; charset=utf-8 31.4273ms
+2025-02-16 16:05:56.729 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 16:05:56.732 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:05:56.733 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:05:56.736 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 16:05:56.739 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 16:05:56.741 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:05:56.742 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.3186ms
+2025-02-16 16:05:56.743 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:05:56.744 +01:00 [INF] HTTP GET /api/Users responded 200 in 11.1491 ms
+2025-02-16 16:05:56.745 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"frank","email":"frank@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 16:05:56.746 +01:00 [INF] Duration: 14.1133ms
+2025-02-16 16:05:56.746 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 17.5245ms
+2025-02-16 16:06:03.241 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5012/api/Users - application/json 74
+2025-02-16 16:06:03.243 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 74
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:06:03.245 +01:00 [INF] RequestBody: {
+    "id": 5,
+    "name": "Jonny",
+    "email": "jonny@example.com"
+}
+2025-02-16 16:06:03.246 +01:00 [INF] Executing endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 16:06:03.248 +01:00 [INF] Route matched with {action = "PostUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[User] PostUser(User) on controller UsersController (UserDataWebApi).
+2025-02-16 16:06:03.250 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.SerializableError'.
+2025-02-16 16:06:03.251 +01:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:06:03.252 +01:00 [INF] Executed action UsersController.PostUser (UserDataWebApi) in 2.6854ms
+2025-02-16 16:06:03.254 +01:00 [INF] Executed endpoint 'UsersController.PostUser (UserDataWebApi)'
+2025-02-16 16:06:03.254 +01:00 [INF] HTTP POST /api/Users responded 400 in 9.9087 ms
+2025-02-16 16:06:03.256 +01:00 [INF] ResponseBody: {}
+2025-02-16 16:06:03.256 +01:00 [INF] Duration: 13.414ms
+2025-02-16 16:06:03.257 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5012/api/Users - 400 null application/json; charset=utf-8 16.7148ms
+2025-02-16 16:06:06.591 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 16:06:06.594 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:06:06.595 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:06:06.596 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 16:06:06.598 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 16:06:06.599 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:06:06.600 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.6608ms
+2025-02-16 16:06:06.602 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:06:06.603 +01:00 [INF] HTTP GET /api/Users responded 200 in 8.1201 ms
+2025-02-16 16:06:06.604 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"frank","email":"frank@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 16:06:06.606 +01:00 [INF] Duration: 11.9308ms
+2025-02-16 16:06:06.606 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 14.977ms
+2025-02-16 16:06:21.687 +01:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5012/api/Users/3 - application/json 76
+2025-02-16 16:06:21.691 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: http
+PathBase: 
+Path: /api/Users/3
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 76
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:06:21.693 +01:00 [INF] RequestBody: {
+    "id": 3,
+    "name": "frank1",
+    "email": "frank1@example.com"
+}
+2025-02-16 16:06:21.695 +01:00 [INF] Executing endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 16:06:21.697 +01:00 [INF] Route matched with {action = "PutUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutUser(Int32, User) on controller UsersController (UserDataWebApi).
+2025-02-16 16:06:21.698 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 16:06:21.699 +01:00 [INF] Executed action UsersController.PutUser (UserDataWebApi) in 0.9961ms
+2025-02-16 16:06:21.700 +01:00 [INF] Executed endpoint 'UsersController.PutUser (UserDataWebApi)'
+2025-02-16 16:06:21.701 +01:00 [INF] HTTP PUT /api/Users/3 responded 204 in 8.2963 ms
+2025-02-16 16:06:21.703 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 16:06:21.704 +01:00 [INF] Duration: 12.674ms
+2025-02-16 16:06:21.704 +01:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5012/api/Users/3 - 204 null null 17.4449ms
+2025-02-16 16:06:23.977 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 16:06:23.980 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:06:23.981 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:06:23.983 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 16:06:23.985 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 16:06:23.987 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:06:23.988 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 3.7304ms
+2025-02-16 16:06:23.989 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:06:23.990 +01:00 [INF] HTTP GET /api/Users responded 200 in 9.1182 ms
+2025-02-16 16:06:23.992 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":3,"name":"frank1","email":"frank1@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 16:06:23.993 +01:00 [INF] Duration: 13.0869ms
+2025-02-16 16:06:23.994 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 16.8861ms
+2025-02-16 16:06:35.407 +01:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5012/api/Users/3 - null null
+2025-02-16 16:06:35.409 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: DELETE
+Scheme: http
+PathBase: 
+Path: /api/Users/3
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:06:35.410 +01:00 [INF] Executing endpoint 'UsersController.DeleteUser (UserDataWebApi)'
+2025-02-16 16:06:35.412 +01:00 [INF] Route matched with {action = "DeleteUser", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult DeleteUser(Int32) on controller UsersController (UserDataWebApi).
+2025-02-16 16:06:35.414 +01:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2025-02-16 16:06:35.415 +01:00 [INF] Executed action UsersController.DeleteUser (UserDataWebApi) in 1.1678ms
+2025-02-16 16:06:35.416 +01:00 [INF] Executed endpoint 'UsersController.DeleteUser (UserDataWebApi)'
+2025-02-16 16:06:35.417 +01:00 [INF] HTTP DELETE /api/Users/3 responded 204 in 6.1332 ms
+2025-02-16 16:06:35.418 +01:00 [INF] Response:
+StatusCode: 204
+2025-02-16 16:06:35.418 +01:00 [INF] Duration: 9.4746ms
+2025-02-16 16:06:35.419 +01:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5012/api/Users/3 - 204 null null 12.9033ms
+2025-02-16 16:06:38.653 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5012/api/Users - null null
+2025-02-16 16:06:38.656 +01:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Users
+Connection: close
+Host: localhost:5012
+User-Agent: vscode-restclient
+Accept-Encoding: gzip, deflate
+username: [Redacted]
+password: [Redacted]
+2025-02-16 16:06:38.657 +01:00 [INF] Executing endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:06:38.658 +01:00 [INF] Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[User]] GetUsers() on controller UsersController (UserDataWebApi).
+2025-02-16 16:06:38.661 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User, UserDataWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-16 16:06:38.662 +01:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2025-02-16 16:06:38.663 +01:00 [INF] Executed action UsersController.GetUsers (UserDataWebApi) in 2.5964ms
+2025-02-16 16:06:38.664 +01:00 [INF] Executed endpoint 'UsersController.GetUsers (UserDataWebApi)'
+2025-02-16 16:06:38.665 +01:00 [INF] HTTP GET /api/Users responded 200 in 8.3423 ms
+2025-02-16 16:06:38.667 +01:00 [INF] ResponseBody: [{"id":1,"name":"John","email":"john@example.com"},{"id":2,"name":"Jane","email":"jane@example.com"},{"id":4,"name":"Bob","email":"bob@example.com"},{"id":5,"name":"Jonny","email":"jonny@example.com"}]
+2025-02-16 16:06:38.668 +01:00 [INF] Duration: 12.2924ms
+2025-02-16 16:06:38.669 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5012/api/Users - 200 null application/json; charset=utf-8 15.7878ms

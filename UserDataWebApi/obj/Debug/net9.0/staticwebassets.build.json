@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VBDewg87iQdw61KPctsnuIxTC43nvVuFk6FPzxV5/og=",
+  "Source": "UserDataWebApi",
+  "BasePath": "_content/UserDataWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
